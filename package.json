@@ -1,0 +1,16 @@
+{
+  "name": "null-success-begin",
+  "productName": "null-success-begin",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "mzaci",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "5.0.0-beta.7"
+  }
+}
